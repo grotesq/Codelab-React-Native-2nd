@@ -1,0 +1,3 @@
+rootProject.name = 'LottoRegenerator'
+
+include ':app'
