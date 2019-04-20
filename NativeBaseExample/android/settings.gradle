@@ -1,0 +1,3 @@
+rootProject.name = 'NativeBaseExample'
+
+include ':app'
