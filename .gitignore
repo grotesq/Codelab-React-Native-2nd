@@ -2,4 +2,7 @@
 .DS_Store
 
 # IDE
+.idea
 
+# ios
+Pods/
