@@ -6,3 +6,6 @@
 
 # ios
 Pods/
+
+# firebase keys
+firebase-config.js
